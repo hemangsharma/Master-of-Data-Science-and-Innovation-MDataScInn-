@@ -4,12 +4,15 @@
 
 ## **Course Details**
 
-**Course Code:** C04372v3 <br>
+**CRICOS Provider Code:** 00099F <br>
+**Course Code:** C04372v3 Master of Data Science and Innovation<br>
 **CRICOS Code:** 084268K (Autumn, 2 years)<br>
 **Commonwealth Supported Place:** No<br>
+**Award(s):** Master of Data Science and Innovation (MDataScInn)<br>
 **Load Credit Points:** 96<br>
 **Course EFTSL:** 2<br>
 **Location:** City campus<br>
+**Load credit points:** 96<br>
 
 ---
 
